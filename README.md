@@ -45,8 +45,8 @@ SheEvolves leverages Google's Gemini AI to analyze user-provided symptoms, medic
 - Easy upload and preview of medical files
 
 **Screenshot:**
-<img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.27.11%E2%80%AFPM.png?updatedAt=1753648396426" alt="AI Disease Prediction Screenshot" width="700"/>
-<img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.27.30%E2%80%AFPM.png?updatedAt=1753648396393" alt="AI Disease Prediction Screenshot" width="700"/>
+<img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.27.11%E2%80%AFPM.png?updatedAt=1753648396426" alt="AI Disease Prediction Screenshot" width="500"/>
+<img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.27.30%E2%80%AFPM.png?updatedAt=1753648396393" alt="AI Disease Prediction Screenshot" width="500"/>
 
 ---
 
