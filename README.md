@@ -45,6 +45,7 @@ SheEvolves leverages Google's Gemini AI to analyze user-provided symptoms, medic
 - Easy upload and preview of medical files
 
 **Screenshot:**
+
 <img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.27.11%E2%80%AFPM.png?updatedAt=1753648396426" alt="AI Disease Prediction Screenshot" width="500"/>
 <img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.27.30%E2%80%AFPM.png?updatedAt=1753648396393" alt="AI Disease Prediction Screenshot" width="500"/>
 
@@ -59,6 +60,7 @@ Track your menstrual cycles, symptoms, and receive personalized predictions. The
 - Symptom logging for better health management
 
 **Screenshot:**
+
 <img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.19.45%E2%80%AFPM.png?updatedAt=1753648396097" alt="Menstrual Tracking Screenshot" width="700"/>
 <img src="https://ik.imagekit.io/ritesh0805/SheEvolves/Screenshot%202025-07-27%20at%209.20.12%E2%80%AFPM.png?updatedAt=1753648396180" alt="Menstrual Tracking Screenshot" width="700"/>
 
